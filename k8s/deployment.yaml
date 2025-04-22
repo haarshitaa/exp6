@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: sample-container
-        image: haarshitaa/sample-java-app
+        image: haarshitaa10/sample-java-app
         ports:
         - containerPort: 8080
